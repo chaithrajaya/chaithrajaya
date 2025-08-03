@@ -54,7 +54,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaithus&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?chaithrajaya=your-username&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithus&layout=compact&theme=radical" width="350"/>
 </p>
 

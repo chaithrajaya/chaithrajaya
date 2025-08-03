@@ -1,52 +1,41 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">CHAITHRA S</span></h1>
-<h3 align="center">💻 Aspiring Web Developer | Java Enthusiast | Curious Learner 🚀</h3>
+<h1 align="center">Hi 👋, I'm CHAITHRA S</h1>
+<h3 align="center">Aspiring Web Developer | Java Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Java+Developer;Frontend+Learner+%7C+HTML+%7C+CSS+%7C+JS;Loves+Problem+Solving+%26+Debugging" alt="Typing Animation" />
+  <img src="https://komarev.com/ghpvc/?username=chaithrajaya&label=Profile%20views&color=0e75b6&style=flat" alt="chaithus" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaithus&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+- 🔭 I’m currently working on **Java OOPs Projects**
+- 🌱 I’m currently learning **DSA**
+- 👨‍💻 All of my projects are available at [My GitHub](https://www.linkedin.com/in/chaithrajaya)
+- 📫 Reach me at **chaithravtht@example.com**  
+- 💬 Ask me about **Java, HTML, GitHub, and learning paths**
 
 ---
 
-## 🧠 About Me
+## 🌐 Connect with me
 
-- 🌱 Currently learning **Java**, **OOPs**, and **Web Development**  
-- 🔭 Exploring interactive UI and portfolio building  
-- 💬 Ask me about **Java basics**, **HTML/CSS**, **GitHub**  
-- 📫 Reach me at: **chaithravtht@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chaithrajaya" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/chaithrajaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/chaithrajaya" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:chaithravtht@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:chaithuravtht@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ---
@@ -54,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?chaithrajaya=your-username&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithus&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaithrajaya&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithrajaya&layout=compact&theme=radical" width="350"/>
 </p>
 
 ---
@@ -63,5 +52,10 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithus&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaithrajaya&theme=radical&hide_border=false" width="600"/>
 </p>
+
+---
+
+> 💡 *“Strive for progress, not perfection.”*  
+> — Let's build and grow, one commit at a time. 💻✨

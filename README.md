@@ -37,7 +37,7 @@
 ### ⚒️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -46,8 +46,7 @@
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **📱 DiabeLife** | Diabetes management mobile app with AI-powered lifestyle optimization | Flutter, Figma, MySQL, AI |
-| **📊 Market Campaign Insights** | Quantitative data analysis dashboard to support marketing strategies | Python, Power BI, Tableau, SQL |
+| **📊 Market Campaign Insights** | Quantitative data analysis dashboard to support marketing strategies | Python, Power BI, Tableau, MySQL |
 | **📦 Java OOPs Examples** | Java programs demonstrating OOPs concepts like inheritance, encapsulation | Java |
 
 
@@ -61,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithrajaya&theme=tokyonight&hide_border=false" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithrajaya&theme=tokyonight&hide_border=false" width="47%" />
 </p>
 
 ---

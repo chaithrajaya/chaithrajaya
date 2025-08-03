@@ -1,8 +1,11 @@
 <!-- INTERACTIVE README - CHAITHU S -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+CHAITHRA+S.;Java+%7C+Python+%7C+Web+Developer;Aspiring+Software+Engineer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&duration=6000&pause=1500&color=7E3ACE&center=true&vCenter=true&width=1000&lines=Hi+there!+I%27m+CHAITHRA+S.;Aspiring+Software+Engineer;Passionate+about+Java%2C+Python%2C+Web+Development+and+Data+Analytics;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaithrajaya&label=Profile%20Views&color=8e44ad&style=flat-square" alt="chaithrajaya" />
@@ -10,11 +13,20 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Final-year student passionate about technology and development  
-- 💻 Currently building Java OOPs projects  
-- 📈 Learning DSA, SQL, and Web Development  
-- ✨ Focused on mastering front-end 
+<!-- Link to Playfair Display Font -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+<!-- About Me Section -->
+<font face="Georgia">
+<h3 align="center" style="font-family: 'Playfair Display', serif;"> About Me</h3>
+<ul style="font-family: 'Playfair Display', serif; font-size: 17px; line-height: 1.8;">
+  <li>🎓 Final-year student passionate about technology and development</li>
+  <li>💻 Currently building Java OOPs projects</li>
+  <li>📈 Learning DSA, SQL, and Web Development</li>
+  <li>✨ Focused on mastering front-end</li>
+</ul>
+</font>
+
 
 ---
 
@@ -65,7 +77,3 @@
 
 ---
 
-### ⚡ Fun Fact
-
-```text
-🧠 Learning never exhausts the mind — Leonardo da Vinci

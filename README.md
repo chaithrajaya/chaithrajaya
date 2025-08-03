@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">Chaithu S</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF">CHAITHRA S</span></h1>
 <h3 align="center">💻 Aspiring Web Developer | Java Enthusiast | Curious Learner 🚀</h3>
 
 <p align="center">
@@ -18,20 +18,20 @@
 - 🌱 Currently learning **Java**, **OOPs**, and **Web Development**  
 - 🔭 Exploring interactive UI and portfolio building  
 - 💬 Ask me about **Java basics**, **HTML/CSS**, **GitHub**  
-- 📫 Reach me at: **chaithu.dev@gmail.com**
+- 📫 Reach me at: **chaithravtht@gmail.com**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/chaithus" target="_blank">
+  <a href="https://www.linkedin.com/in/chaithrajaya" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/chaithus" target="_blank">
+  <a href="https://www.linkedin.com/in/chaithrajaya" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:chaithu.dev@gmail.com">
+  <a href="mailto:chaithravtht@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
